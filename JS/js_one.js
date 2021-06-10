@@ -1,5 +1,5 @@
 function openClass12() {
-    location.href = "class_12.html";
+    location.href = "Class_12.html";
  }
 
  function openEntranceExam() {
