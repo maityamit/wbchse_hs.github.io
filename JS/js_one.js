@@ -11,6 +11,9 @@ function openClass12() {
     location.href = "About_us.html";
  }
 
+ function NotActive() {
+   alert ("There is no content Upto now .");
+}
 
 
 
