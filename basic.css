@@ -284,7 +284,7 @@ footer {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     padding: 16px;
     text-align: center;
-    background-color: #e8e9ff;
+    background-color: #fafbff;
     border-radius: 10%;
     border-color: #0400ff;
     border: #0400ff;
@@ -294,6 +294,70 @@ footer {
 
 
   
+  .About_Us_Teacher_buttonn{
 
+    background-color: #00b862; /* Green */
+    border: none;
+    color: #ffffff;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    width: 220px;
+    cursor: pointer;
+    border-radius: 4px;
+    display: inline-block;
+    font-size: 16px;
+    padding: 16px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+
+
+.About_Us_Student_buttonn{
+
+  background-color: #faf600; /* Green */
+  border: none;
+  color: #000000;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  width: 220px;
+  cursor: pointer;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 4px;
+  display: inline-block;
+  font-size: 16px;
+  padding: 16px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+
+
+.About_Us_Developer_buttonn{
+
+  background-color: #00ffd5; /* Green */
+  border: none;
+  color: #000000;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  width: 220px;
+  cursor: pointer;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 4px;
+  display: inline-block;
+  font-size: 16px;
+  padding: 16px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
 
   
