@@ -224,7 +224,7 @@ footer {
   
   ul li {
     background: #ffffff;
-    font-size: 20px;
+    font-size: 18px;
     font-family: Arial;
     line-height: 2.5;
     list-style-position: inside;
@@ -232,7 +232,7 @@ footer {
     font-style:initial;
     font-weight: bold;
     padding: 0px 15px;
-    width: 250px;
+    width: 350px;
     cursor:pointer;
     padding-top: 11px;
     margin-block-start: 5px;
